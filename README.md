@@ -1,2 +1,6 @@
-# Zillow-Data-Scraper-Form-Auto-Filler
-A bot that scrapes real estate data from Zillow(static) using BeautifulSoup and automates Google Form submissions with Selenium. The collected data is stored in a Google Sheet for analysis. 
+Zillow Data Scraper & Form Auto-Filler 🏡📊
+Description
+#Scrapes real estate data from Zillow using BeautifulSoup.
+#Automates Google Form submissions with Selenium.
+#Stores collected data in a Google Sheet for analysis.
+#Fully automated, efficient, and easy to use. 
